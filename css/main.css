@@ -24,7 +24,7 @@ main {
 /* The Card */
 main .card {
   background-color: var(--white);
-  width: 290px;
+  width: 310px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -42,11 +42,11 @@ main .card:hover {
 }
 /* QR Code Image */
 .card figure {
-  width: 258px;
-  height: 258px;
+  width: 278px;
+  height: 278px;
   border-radius: 8px;
   overflow: hidden;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
   user-select: none;
 }
 .card figure img {
@@ -58,14 +58,14 @@ main .card:hover {
 .card .info {
   text-align: center;
 }
-.card .info h2 {
+.card .info h1 {
   font-size: 22px;
   color: var(--dark-blue);
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
 .card .info p {
   font-size: 15px;
   color: var(--grayish-blue);
   line-height: 1.5;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
