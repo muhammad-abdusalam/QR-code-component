@@ -2,6 +2,17 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Demo
+![QR_code](./screenshot/qrcode.png)
 
-https://muhammad-adam778.github.io/QR-code-component/
+### Demo
+
+https://muhammad-abdusalam.github.io/QR-code-component/
+
+### Built with ⚒️
+
+- HTML
+- CSS
+
+### Author
+
+- Linkedin: [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
